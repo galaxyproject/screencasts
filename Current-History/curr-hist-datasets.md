@@ -39,7 +39,7 @@ Summary view :
 
 ::::::::::{ .col}
 
-::::{ .tall}
+::::{ .square}
 ![Controls for 'summary' (or collapsed) dataset view.](src/Images/summary.png "Controls for 'summary' (or collapsed) dataset view")
 :::::::::::::::::::::
 
@@ -53,7 +53,7 @@ Summary view :
 action.
 :::::::::::::::::::::
 
-# [History Panel Datasets]{ .onslides}
+# [History Panel Datasets]{.onslides}
 
 :::::::::{ .spoken .document}
 
@@ -83,11 +83,9 @@ Expanded View:
 
 5. Available actions on the dataset.
 
-6. **Peek** of the data:
-
+6. **Peek** of the data
 
 :::::::::::::::::::
-
 
 ::::::::::{ .col}
 
@@ -103,9 +101,6 @@ Expanded View:
 :::::::::{ .spoken .document}
 <b>Note</b> that many of these details are only displayed if the dataset has finished running, is in the 'ok' state, and is not deleted. Otherwise, you may only see a shorter message describing the dataset's state.  For example,  'this dataset is waiting to run'.
 :::::::::::::::::
-
-
-
 
 :::::::::::::::::::::::::::{ .firstslide}
 # History Panel Datasets

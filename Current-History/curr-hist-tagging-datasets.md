@@ -37,7 +37,7 @@ The **standard tags** work similarly to history tags.
 
 **Hashtags** are much more powerful as they are **displayed** in the history panel and **propagate** through the analysis:
 
-::::{ .verytall}
+::::{ .tall}
 ![ A. Hashtags are added similarly to standard tags but with one important difference: they are prepended with a hash '#' symbol. B. Hashtags stay with all datasets that are derived from the initial ones. ](src/Images/name_tags.png "Hashtags allow you to more easily track datasets through the analysis. A. Hashtags are added similarly to standard tags but with one important difference: they are prepended with a hash '#' symbol. B. Here you see a history where four starting datasets were given name tags. As the analysis progresses hashtags stay with all datasets that are derived from the initial ones. For example, you can easily see which of the `bwa` and `MarkDuplicates` outputs are derived from, say, mother data.")
 
 ::::::::
@@ -52,3 +52,14 @@ The **standard tags** work similarly to history tags.
 :::{ .warning}
 For more information on name tags, [a video is available](https://player.vimeo.com/video/216884518) of their usage.
 ::::::::
+
+
+
+
+:::::::::::::::::::::::::::{ .firstslide}
+# Tagging datasets
+
+![](src/Images/galaxy_logos_all.png)
+
+
+::::::::::::::::::::::::::::::::::::::::::

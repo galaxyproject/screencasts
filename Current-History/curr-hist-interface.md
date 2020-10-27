@@ -9,7 +9,7 @@
 
 # Current history controls
 
-::::{ .small}
+::::{ .square}
 ![History Controls.](src/Images/current-history-buttons.png "History Controls")
 ::::::::::::::::
 

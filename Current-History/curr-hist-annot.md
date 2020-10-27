@@ -21,19 +21,6 @@ To annotate a history, click the annotation button at the top of the history pan
 ![Annotating a history allows entering more information such as, for example, experimental details related to the analysis.](src/Images/annotations.png "Annotating a history allows entering more information such as, for example, experimental details related to the analysis")
 ::::::::::::
 
-::::{ .onslides}
-1. Click the annotation button at the top of the history panel.
-2. Click the annotation section.
-3. Add your annotations.
-   - <kbd>Enter</kbd> will move the cursor to the next line.
-4. Click the 'Done' button.
-
-
-::::{ .warning}
-<b>History size</b> : The total size of all the datasets in a history is displayed underneath the history name.
-::::::
-
-::::::::::::::
 
 :::::::::{ .spoken .document}
 As datasets are added to a history, Galaxy will store them on the server. The total size of these files, for all the datasets in a history, is displayed underneath the history name. For example, if a history has 200 megabytes of dataset data on Galaxy's file system, '200 MB' will be displayed underneath the history name.
@@ -42,6 +29,33 @@ If your Galaxy server uses quotas, the total combined size of all your histories
 :::::::::::::::::
 
 
+:::::::::::::::::::::::::::{ .two_col}
+
+::::::::::{ .col}
+
+
+1. Click the annotation button at the top of the history panel.
+2. Click the annotation section.
+3. Add your annotations.
+   - <kbd>Enter</kbd> will move the cursor to the next line.
+4. Click the 'Done' button.
+
+
+
+
+:::::::::::::::::
+
+::::::::::{ .col}
+
+::::{ .warning}
+<b>History size</b> : The total size of all the datasets in a history is displayed underneath the history name.
+::::::
+
+
+:::::::::::::::::
+
+
+::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::{ .firstslide}
